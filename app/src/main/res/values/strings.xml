@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GoogleVoiceChrome</string>
+
+
+    <string-array name="spinnerItems">
+        <item>IDLE</item>
+        <item>LISTENING</item>
+        <item>USER_SPEAKS</item>
+        <item>THINKING</item>
+        <item>REPLYING</item>
+        <item>INCOMPREHENSION</item>
+    </string-array>
+</resources>
